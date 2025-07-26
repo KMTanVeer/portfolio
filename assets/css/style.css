@@ -1288,7 +1288,7 @@ form .button-area {
   display: flex;
   flex-direction: row;
   gap: 1rem;
-  padding-left: 0;
+  padding-left: 5;
   margin: 0;
   list-style: none;
 }
