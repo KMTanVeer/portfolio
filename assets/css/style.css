@@ -1303,15 +1303,5 @@ form .button-area {
     gap: 0.7rem;
     align-items: flex-start;
   }
-  .image {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    position: relative;
-  }
-  .image img {
-    margin-left: 0;
-    width: 70vw;
-    max-width: 300px;
-  }
+
 }
