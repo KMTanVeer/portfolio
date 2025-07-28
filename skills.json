@@ -1,15 +1,15 @@
 [
     {
         "name": "MS Word",
-        "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
+        "icon": "https://img.icons8.com/?size=100&id=SmDSfx7Hzcsp&format=png&color=000000"
     },
     {
         "name": "MS Excel",
-        "icon": "https://img.icons8.com/color/48/000000/ms-excel.png"
+        "icon": "https://img.icons8.com/?size=100&id=QxC4KDIwpjTE&format=png&color=000000"
     },
     {
         "name": "MS PowerPoint",
-        "icon": "https://img.icons8.com/color/48/000000/ms-powerpoint.png"
+        "icon": "https://img.icons8.com/?size=100&id=36eqlXr87Aqe&format=png&color=000000"
     },
     {
         "name": "MATLAB",
@@ -17,27 +17,23 @@
     },
     {
         "name": "Proteus",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/circuit.png"
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Proteus_Design_Suite_Atom_Logo.png/250px-Proteus_Design_Suite_Atom_Logo.png"
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://icons8.com/icon/pIJdjOoL6KfU/python"
     },
     {
         "name": "GNS3",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/network.png"
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png"
     },
     {
         "name": "Tinkercad",
-        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+        "icon": "https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/logo-tinkercad-256.png?w=256&ssl=1"
     },
     {
         "name": "OptiSystem",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/optical.png"
-    },
-    {
-        "name": "COMSOL",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/physics.png"
+        "icon": "https://cdn.optiwave.com/wp-content/uploads/2025/03/OptiSystem-logo.jpg"
     },
     {
         "name": "AutoCAD Electrical",
@@ -45,11 +41,11 @@
     },
     {
         "name": "Multisim",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/electronics.png"
+        "icon": "https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"
     },
     {
         "name": "LTspice",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/resistor.png"
+        "icon": "https://icons8.com/icon/36627/web-components"
     },
     {
         "name": "Arduino IDE",
@@ -57,14 +53,10 @@
     },
     {
         "name": "PSpice",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/diode.png"
+        "icon": "https://icons8.com/icon/9078/circuit"
     },
      {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "LabVIEW",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/oscilloscope.png"
     }
 ]
