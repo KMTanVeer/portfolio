@@ -17,7 +17,7 @@
     },
     {
         "name": "Proteus",
-        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Proteus_Design_Suite_Atom_Logo.png/250px-Proteus_Design_Suite_Atom_Logo.png"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/circuit.png"
     },
     {
         "name": "Python",
@@ -25,7 +25,7 @@
     },
     {
         "name": "GNS3",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/network.png"
     },
     {
         "name": "Tinkercad",
@@ -33,7 +33,7 @@
     },
     {
         "name": "OptiSystem",
-        "icon": "https://cdn.optiwave.com/wp-content/uploads/2025/03/OptiSystem-logo.jpg"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/optical.png"
     },
     {
         "name": "AutoCAD Electrical",
@@ -41,11 +41,11 @@
     },
     {
         "name": "Multisim",
-        "icon": "https://img.icons8.com/color/48/000000/electronics.png"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/electronics.png"
     },
     {
         "name": "LTspice",
-        "icon": "https://img.icons8.com/color/48/000000/resistor.png"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/resistor.png"
     },
     {
         "name": "Arduino IDE",
@@ -53,7 +53,7 @@
     },
     {
         "name": "PSpice",
-        "icon": "https://img.icons8.com/color/48/000000/diode.png"
+        "icon": "https://img.icons8.com/ios-filled/48/000000/diode.png"
     },
     {
         "name": "GitHub",
