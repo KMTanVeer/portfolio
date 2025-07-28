@@ -59,12 +59,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Kawsar Mahmuf Tanveer Khan";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Kawsar Mahmuf Tanveer Khan | Portfolio";
+            $("#favicon").attr("href", "assets/images/favicon.ico");
         }
         else {
             document.title = "Kawsar Mahmud Tanveer Khan";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/favicon.ico");
         }
     });
 
@@ -138,7 +138,7 @@ function showProjects(projects) {
         origin: 'top',
         distance: '80px',
         duration: 1000,
-        reset: true
+        reset: false
     });
 
     /* SCROLL PROJECTS */
