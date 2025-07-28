@@ -13,11 +13,11 @@
     },
     {
         "name": "MATLAB",
-        "icon": "https://img.icons8.com/color/48/000000/matlab.png"
+        "icon": "https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"
     },
     {
         "name": "Proteus",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/circuit.png"
+        "icon": "https://img.icons8.com/?size=100&id=104090&format=png&color=000000"
     },
     {
         "name": "Python",
@@ -33,7 +33,7 @@
     },
     {
         "name": "OptiSystem",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/optical.png"
+        "icon": "https://img.icons8.com/?size=100&id=59731&format=png&color=F25081"
     },
     {
         "name": "AutoCAD Electrical",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Multisim",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/electronics.png"
+        "icon": "https://img.icons8.com/?size=100&id=77264&format=png&color=FA5252"
     },
     {
         "name": "LTspice",
@@ -53,10 +53,10 @@
     },
     {
         "name": "PSpice",
-        "icon": "https://img.icons8.com/ios-filled/48/000000/diode.png"
+        "icon": "https://img.icons8.com/?size=100&id=11853&format=png&color=000000"
     },
     {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/000000/github.png"
+        "icon": "https://img.icons8.com/?size=100&id=63777&format=png&color=000000g"
     }
 ]
