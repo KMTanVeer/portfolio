@@ -1303,9 +1303,5 @@ form .button-area {
     gap: 0.7rem;
     align-items: flex-start;
   }
-@media (max-width: 600px) {
-  .home img {
-    margin-left: 100px; /* Adjust the value as needed */
-  }
-}
+
 }
