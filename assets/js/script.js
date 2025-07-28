@@ -136,7 +136,7 @@ function showProjects(projects) {
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
         origin: 'top',
-        distance: '200px',
+        distance: '230px',
         duration: 1000,
         reset: true
     });
