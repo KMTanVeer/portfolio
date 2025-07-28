@@ -136,9 +136,9 @@ function showProjects(projects) {
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
         origin: 'top',
-        distance: '80px',
+        distance: '150px',
         duration: 1000,
-        reset: false
+        reset: true
     });
 
     /* SCROLL PROJECTS */
