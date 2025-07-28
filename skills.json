@@ -1,19 +1,19 @@
 [
     {
         "name": "MS Word",
-        "icon": "https://img.icons8.com/?size=100&id=SmDSfx7Hzcsp&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
     },
     {
         "name": "MS Excel",
-        "icon": "https://img.icons8.com/?size=100&id=QxC4KDIwpjTE&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/000000/ms-excel.png"
     },
     {
         "name": "MS PowerPoint",
-        "icon": "https://img.icons8.com/?size=100&id=36eqlXr87Aqe&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/000000/ms-powerpoint.png"
     },
     {
         "name": "MATLAB",
-        "icon": "https://img.icons8.com/?size=100&id=RyL1pqCliHQ1&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/000000/matlab.png"
     },
     {
         "name": "Proteus",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Python",
-        "icon": "https://icons8.com/icon/pIJdjOoL6KfU/python"
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
     },
     {
         "name": "GNS3",
@@ -29,7 +29,7 @@
     },
     {
         "name": "Tinkercad",
-        "icon": "https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/logo-tinkercad-256.png?w=256&ssl=1"
+        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
     },
     {
         "name": "OptiSystem",
@@ -41,11 +41,11 @@
     },
     {
         "name": "Multisim",
-        "icon": "https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"
+        "icon": "https://img.icons8.com/color/48/000000/electronics.png"
     },
     {
         "name": "LTspice",
-        "icon": "https://icons8.com/icon/36627/web-components"
+        "icon": "https://img.icons8.com/color/48/000000/resistor.png"
     },
     {
         "name": "Arduino IDE",
@@ -53,10 +53,10 @@
     },
     {
         "name": "PSpice",
-        "icon": "https://icons8.com/icon/9078/circuit"
+        "icon": "https://img.icons8.com/color/48/000000/diode.png"
     },
-     {
+    {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "https://img.icons8.com/glyph-neue/48/000000/github.png"
     }
 ]
