@@ -1285,8 +1285,9 @@ form .button-area {
 }
 
 @media (max-width: 600px) {
-  .hero-flex {
-    flex-direction: column;
+   .hero-flex {
+    flex-direction: row;
+    justify-content: flex-end;
     align-items: center;
     gap: 0;
   }
