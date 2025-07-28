@@ -1305,7 +1305,7 @@ form .button-area {
   }
 @media (max-width: 600px) {
   .home img {
-    margin-left: 60px; /* Adjust the value as needed */
+    margin-left: 100px; /* Adjust the value as needed */
   }
 }
 }
