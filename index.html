@@ -11,7 +11,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Favicon -->
-    <link id='favicon' rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-png">
+    <link id='favicon' rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-png">
     <title>Portfolio | Kawsar Mahmud Tanveer Khan</title>
 </head>
 <body oncontextmenu="return false">
@@ -44,32 +44,33 @@
 <!-- navbar ends -->
 
 
-<!-- hero section starts -->
+<!-- HERO SECTION STARTS -->
 <section class="home" id="home">
-    <div id="particles-js"></div>
-
-    <div class="content">
-    <h2>Hi There,<br/> I'm <span>Tanveer</span></h2>
-    <p> <span class="typing-text"></span></p>
-    <a href="#about" class="btn"><span>About Me</span>
-      <i class="fas fa-arrow-circle-down"></i>
-    </a>
+  <div id="particles-js"></div>
+  <div class="hero-flex">
+    <!-- Socials: OUTSIDE content for correct positioning -->
     <div class="socials">
-        <ul class="social-icons">
-          <li><a class="linkedin" aria-label="LinkedIn" href="https://www.linkedin.com/in/KawsarTanveer/" target="_blank"><i class="fab fa-linkedin"></i></a></li> 
-          <li><a class="github" aria-label="GitHub" href="https://github.com/KMTanvir" target="_blank"><i class="fab fa-github"></i></a></li>
-          <li><a class="twitter" aria-label="Twitter" href="https://twitter.com/itzzveer" target="_blank"><i class="fab fa-twitter"></i></a></li>
-          <li><a class="telegram" aria-label="Telegram" href="https://t.me/itzzveer" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
-          <li><a class="instagram" aria-label="Instagram" href="https://www.instagram.com/itzzveer"><i class="fab fa-instagram" target="_blank"></i></a></li>
-          
-        </ul>
-      </div>
+      <ul class="social-icons">
+        <li><a class="linkedin" aria-label="LinkedIn" href="https://www.linkedin.com/in/KawsarTanveer/" target="_blank"><i class="fab fa-linkedin"></i></a></li> 
+        <li><a class="github" aria-label="GitHub" href="https://github.com/KMTanvir" target="_blank"><i class="fab fa-github"></i></a></li>
+        <li><a class="twitter" aria-label="Twitter" href="https://twitter.com/itzzveer" target="_blank"><i class="fab fa-twitter"></i></a></li>
+        <li><a class="telegram" aria-label="Telegram" href="https://t.me/itzzveer" target="_blank"><i class="fab fa-telegram-plane"></i></a></li>
+        <li><a class="instagram" aria-label="Instagram" href="https://www.instagram.com/itzzveer" target="_blank"><i class="fab fa-instagram"></i></a></li>
+      </ul>
     </div>
-<div class="image">
-    <img draggable="false" class="tilt" src="./assets/images/Tanveer.png" alt="">
-</div>
+    <div class="content">
+      <h2>Hi There,<br/> I'm Tanveer <span>Khan</span></h2>
+      <p><span class="typing-text"></span></p>
+      <a href="#about" class="btn"><span>About Me</span>
+        <i class="fas fa-arrow-circle-down"></i>
+      </a>
+    </div>
+    <div class="image">
+      <img draggable="false" class="tilt" src="./assets/images/Tanveer.png" alt="">
+    </div>
+  </div>
 </section>
-<!-- hero section ends -->
+<!-- HERO SECTION ENDS -->
 
 
 <!-- about section starts -->
@@ -79,7 +80,7 @@
     <div class="row">
 
     <div class="image">
-        <img draggable="false" class="tilt" src="./assets/images/about.jpg" alt="itzzveer">
+        <img draggable="false" class="tilt" src="./assets/images/Tanveer.png" alt="itzzveer">
     </div>
     <div class="content">
         <h3>I'm Kawsar Mahmud Tanveer Khan</h3>
@@ -109,26 +110,42 @@
 </section>
 <!-- about section ends -->
 
+
 <!-- skills section starts -->
-<section class="skills" id="skills">
+<!--section class="skills" id="skills">
 
     <h2 class="heading"><i class="fas fa-certificate"></i> <span>Certificates</span></h2>
 
     <div class="container">
-          <div class="row" id="skillsContainer">
+<section class="work section" id="work">
+    <h2 class="section-title">Certificates</h2>
+    <div class="work__container bd-grid">
+        <a href="" class="work__img">
+            <img src="assets/img/work1.jpeg" alt="itzzveer">
+        </a>
+        <a href="" class="work__img">
+            <img src="assets/img/work2.jpg" alt="itzzveer">
+        </a>
+        <a href="" class="work__img">
+            <img src="assets/img/work3.jpg" alt="itzzveer">
+        </a>
+        
+    </div>
+</section>
+            </div>
 </div>
 </section>
 <!-- skills section ends -->
 
 
 <!-- education section starts -->
-<section class="education" id="education">
+<!--section class="education" id="education">
 
   <h1 class="heading"><i class="fas fa-graduation-cap"></i> My <span>Education</span></h1>
 
     
 
-    <!--div class="box-container">
+    <div class="box-container">
 
     <div class="box">
         <div class="image">
@@ -217,6 +234,8 @@
 
 </section>
 <!-- work project section ends -->
+
+
 
 <!-- contact section starts -->
 <section class="contact" id="contact">
