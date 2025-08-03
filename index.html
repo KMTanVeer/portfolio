@@ -45,6 +45,173 @@
   </script>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./assets/css/style.css">
+    
+    <!-- Enhanced Contact Form Styling -->
+    <style>
+        /* Enhanced Contact Form Styles */
+        .contact__form {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 3rem 2.5rem;
+            background: #ffffff;
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1), 0 1px 8px rgba(0, 0, 0, 0.06);
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            transition: all 0.3s ease;
+        }
+        
+        .contact__form:hover {
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15), 0 2px 12px rgba(0, 0, 0, 0.08);
+            transform: translateY(-2px);
+        }
+        
+        .contact__input {
+            width: 100%;
+            padding: 1.5rem 1.8rem;
+            font-size: 1.6rem;
+            font-family: "Poppins", sans-serif;
+            border: 2px solid #e5ecfb;
+            border-radius: 1rem;
+            background: #f8faff;
+            color: #333;
+            transition: all 0.3s ease;
+            outline: none;
+            box-sizing: border-box;
+        }
+        
+        .contact__input:focus {
+            border-color: #57059e;
+            background: #ffffff;
+            box-shadow: 0 0 0 4px rgba(87, 5, 158, 0.1);
+            transform: translateY(-2px);
+        }
+        
+        .contact__input::placeholder {
+            color: #888;
+            font-weight: 400;
+        }
+        
+        .contact__input[name="message"] {
+            min-height: 150px;
+            resize: vertical;
+            font-family: "Nunito", sans-serif;
+            line-height: 1.6;
+        }
+        
+        .contact__button {
+            width: 100%;
+            padding: 1.8rem 2rem;
+            font-size: 1.8rem;
+            font-weight: 600;
+            font-family: "Poppins", sans-serif;
+            color: #ffffff;
+            background: linear-gradient(135deg, #57059e 0%, #4a00e0 100%);
+            border: none;
+            border-radius: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 0 8px 25px rgba(87, 5, 158, 0.3);
+            outline: none;
+        }
+        
+        .contact__button:hover {
+            background: linear-gradient(135deg, #6806b8 0%, #5a0ff0 100%);
+            box-shadow: 0 12px 35px rgba(87, 5, 158, 0.4);
+            transform: translateY(-3px);
+        }
+        
+        .contact__button:active {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 20px rgba(87, 5, 158, 0.3);
+        }
+        
+        /* Enhanced container styling */
+        .contact .container {
+            max-width: 1200px;
+            width: 100%;
+            background: transparent;
+            border-radius: 0;
+            margin: 2rem auto;
+            box-shadow: none;
+            padding: 0;
+        }
+        
+        .contact .content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 3rem 2rem;
+            gap: 4rem;
+        }
+        
+        .contact .content .image-box {
+            flex: 1;
+            max-width: 45%;
+            margin-left: 0;
+        }
+        
+        .contact .content form {
+            flex: 1;
+            max-width: 55%;
+            margin-right: 0;
+        }
+        
+        /* Mobile responsiveness */
+        @media (max-width: 900px) {
+            .contact .content {
+                flex-direction: column;
+                padding: 2rem 1rem;
+                gap: 3rem;
+            }
+            
+            .contact .content .image-box {
+                max-width: 80%;
+                order: 2;
+            }
+            
+            .contact .content form {
+                max-width: 100%;
+                order: 1;
+            }
+            
+            .contact__form {
+                padding: 2.5rem 2rem;
+                max-width: 100%;
+            }
+            
+            .contact__input {
+                padding: 1.3rem 1.5rem;
+                font-size: 1.5rem;
+            }
+            
+            .contact__button {
+                padding: 1.6rem 2rem;
+                font-size: 1.7rem;
+            }
+        }
+        
+        @media (max-width: 600px) {
+            .contact__form {
+                padding: 2rem 1.5rem;
+                gap: 1.5rem;
+            }
+            
+            .contact__input {
+                padding: 1.2rem 1.3rem;
+                font-size: 1.4rem;
+            }
+            
+            .contact__button {
+                padding: 1.5rem 1.8rem;
+                font-size: 1.6rem;
+            }
+        }
+    </style>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Favicon -->
