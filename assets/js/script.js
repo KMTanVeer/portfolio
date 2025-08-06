@@ -59,12 +59,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Kawsar Mahmuf Tanveer Khan | Portfolio";
+            document.title = "Kawsar Mahmud Tanveer Khan | Portfolio";
             $("#favicon").attr("href", "assets/images/favicon.ico");
         }
         else {
-            document.title = "Kawsar Mahmud Tanveer Khan";
-            $("#favicon").attr("href", "assets/images/favicon.ico");
+            document.title = "Tanveer Khan | Portfolio ";
+            $("#favicon").attr("href", "assets/images/fav.ico");
         }
     });
 
